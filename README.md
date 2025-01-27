@@ -14,7 +14,7 @@ I specialize in crafting clean, responsive, and dynamic user interfaces with a p
 ---
 
 ### 🌟 Projects
-- **[Todo App](https://github.com/mrzubairdotin/vanilla-html-css-javascript-projects/tree/main/Todo%20List%20Application)**: A simple and effective task management app.
+- **[Todo List Application](https://github.com/mrzubairdotin/vanilla-html-css-javascript-projects/tree/main/Todo%20List%20Application)**: A simple and effective task management app.
 - **[Weather Check App](https://github.com/username/weather-app)**: Provides real-time weather updates.
 - **[Bubble Game](https://github.com/username/bubble-game)**: An interactive game to pop bubbles!
 - **[Portfolio Website](https://github.com/username/portfolio)**: Showcasing my skills and projects.
