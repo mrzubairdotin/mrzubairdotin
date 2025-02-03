@@ -15,6 +15,8 @@ I specialize in crafting clean, responsive, and dynamic user interfaces with a p
 
 ### 🌟 Projects
 - **[Todo List Application](https://github.com/mrzubairdotin/vanilla-html-css-javascript-projects/tree/main/Todo-List-App)**: A simple and effective task management app.
+- **[Weather Tracker App](https://github.com/mrzubairdotin/vanilla-html-css-javascript-projects/tree/main/Weather-Tracker-App)**: A real-time weather tracking app using OpenWeather API.
+
 ---
 
 ### 📬 Connect with Me
