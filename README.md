@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mr. Zubair
+# Hi there! 👋 I'm Mr. Zuber
 
 ### 👨‍💻 Frontend Developer | Aspiring Full Stack Developer & DSA Enthusiast
 
@@ -20,7 +20,6 @@ I specialize in crafting clean, responsive, and dynamic user interfaces with a p
 ---
 
 ### 📬 Connect with Me
-- 🌐 Website: [mrzubair.in](http://mrzubair.in)
 - 📧 Email: [mrzuber930@gmail.com](mailto:mrzuber930@gmail.com)
 
 ---
