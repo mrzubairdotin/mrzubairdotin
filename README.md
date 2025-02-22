@@ -16,6 +16,9 @@ I specialize in crafting clean, responsive, and dynamic user interfaces with a p
 ### 🌟 Projects
 - **[Todo List Application](https://github.com/mrzubairdotin/vanilla-html-css-javascript-projects/tree/main/Todo-List-App)**: A simple and effective task management app.
 - **[Weather Tracker App](https://github.com/mrzubairdotin/vanilla-html-css-javascript-projects/tree/main/Weather-Tracker-App)**: A real-time weather tracking app using OpenWeather API.
+- **[Simple Quiz App](https://github.com/mrzuber/vanilla-html-css-javascript-projects/tree/main/Simple-Quiz-App)**: An interactive quiz app with multiple-choice questions.
+- **[Password Generator App](https://github.com/mrzuber/vanilla-html-css-javascript-projects/tree/main/Password-Generator-App)**: A tool to generate strong, customizable passwords.
+- **[Product Page](https://github.com/mrzuber/vanilla-html-css-javascript-projects/tree/main/Product-Page)**: A responsive product showcase page with modern design.
 
 ---
 
